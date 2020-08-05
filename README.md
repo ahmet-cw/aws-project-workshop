@@ -1,1 +1,2 @@
-# My public repo for AWS projects
+# aws-project-workshop
+
